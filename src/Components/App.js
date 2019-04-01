@@ -1,5 +1,4 @@
 import React from 'react';
-// import '../App.css';
 import ListAuto from './ListAuto';
 import { Table } from 'reactstrap';
 
