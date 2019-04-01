@@ -5,16 +5,6 @@ import { Table } from 'reactstrap';
 
 const App = () => {
 
-  // return (
-  //   <div className="wrapper-all-page">
-  //     <span className="app-title">VIP обьявления</span>
-  //     <div className="wrapper-list-cards">
-  //
-  //     </div>
-  //   </div>
-  // )
-
-
         return (
             <Table dark>
                     <thead>
